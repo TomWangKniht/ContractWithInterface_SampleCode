@@ -1,0 +1,6 @@
+# ContractWithInterface_SampleCode
+對Interface做codeContract
+這是2012年練習Code Contracts的一個專案
+Code Contracts是一個微軟的套件，其中我覺得最好的部分是可以對interface的method做contract的設定
+
+當初寫這個專案除了練習之外，另一個原因是之後如果自己要用Code Contracts時，可以拿來參考
